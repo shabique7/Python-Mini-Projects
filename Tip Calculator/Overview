@@ -1,0 +1,8 @@
+💰 Tip Calculator
+A beginner-friendly Python script to calculate how much each person should pay when splitting a bill, including a customizable tip percentage.
+
+🧮 How It Works
+1.Enter the total bill amount.
+2.Choose a tip percentage (e.g., 10%, 12%, 15%).
+3.Enter the number of people splitting the bill.
+4.The program calculates how much each person needs to pay.
