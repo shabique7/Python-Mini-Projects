@@ -1,0 +1,12 @@
+✊🖐✌ Rock, Paper, Scissors 
+A fun and simple Python implementation of the classic Rock, Paper, Scissors game.
+This console-based game lets you play against the computer using ASCII art for visual feedback!
+
+🎮 How to Play:
+Choose:
+0 for Rock
+1 for Paper
+2 for Scissors
+
+The computer makes a random choice.
+The game compares the two choices and displays the result.
