@@ -1,0 +1,20 @@
+🍕 Pizza Ordering
+A beginner-friendly Python script that simulates a pizza ordering system.
+It calculates the final bill based on the size of the pizza and selected extras like pepperoni and cheese.
+
+💡 Features
+1.You can choose your pizza size: Small (S), Medium (M), or Large (L)
+2.Add-ons:
+   a)Pepperoni
+   b)Extra cheese
+3.Calculates the final price based on your choices
+
+💰 Pricing Rules
+1.Pizza Sizes:
+  a)Small: $15
+  b)Medium: $20
+  c)Large: $25
+2.Pepperoni:
+  a)+$2 for Small
+  b)+$3 for Medium or Large
+  c)Extra Cheese: +$1 (any size)
