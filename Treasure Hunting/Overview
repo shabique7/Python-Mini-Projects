@@ -1,0 +1,16 @@
+🏝️ Treasure Island - Text Adventure Game
+A fun, beginner-friendly text-based adventure game written in Python. 
+Inspired by classic "choose your path" stories.
+This mini-game lets the player make a series of decisions to find a hidden treasure or face various game-ending fates.
+
+🎮 How to Play
+1.The game presents a story with choices at each step.
+2.The player must type in responses like "left", "wait", or "yellow" to proceed.
+3.Correct choices will bring the player closer to the treasure.
+4.Wrong moves result in Game Over scenarios.
+
+📚 Concepts Used
+1.Multi-level decision making with nested if-elif-else
+2.User interaction using input() and .lower()
+3.ASCII art for enhanced visual appeal
+4.Basic string formatting and flow control
