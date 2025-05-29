@@ -1,0 +1,16 @@
+🔐 Password Generator
+A simple Python script to generate strong, random passwords based on user-specified criteria.
+Great for beginners learning Python fundamentals like loops, lists, and the random module.
+
+💡 Features
+Choose the number of letters, symbols, and numbers in your password.
+
+Generates:
+>An easy password (characters in order)
+>A hard password (characters fully shuffled for more security)
+
+🛠 How It Works:
+1.Takes user input for how many letters, symbols, and numbers they want.
+2.Randomly selects characters from predefined lists.
+3.Assembles an “easy” password with ordered characters.
+4.Shuffles characters to generate a more secure “hard” password.
