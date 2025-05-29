@@ -1,0 +1,8 @@
+🎸 Band Name Generator
+This is a simple Python script that generates a fun band name based on user input.
+The program asks for the city you grew up in and your pet’s name.
+Then combines them to suggest a unique band name.
+💻 How it works:
+1.Asks the user for the city they grew up in.
+2.Asks for their pet's name.
+3.Combines the two to generate a quirky band name.
