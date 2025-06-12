@@ -1,0 +1,20 @@
+🧮 Python Calculator with Operations 🧮
+
+A simple yet functional Python calculator that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+Operations Setup:
+The program supports basic arithmetic: addition, subtraction, multiplication, and division using functions.
+
+User Input:
+First, the user inputs a number, then selects an operation (+, -, *, /).
+The user enters the second number for the calculation.
+
+Calculation:
+The selected operation is performed on the two numbers, and the result is displayed.
+
+Repeat or Restart:
+The user can continue calculating with the result or restart with a new calculation.
+If the user enters 'n', the program restarts; if 'y', it continues with the result.
+
+Handling Invalid Input:
+The program prompts the user again if an invalid choice is entered.
