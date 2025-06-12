@@ -1,0 +1,19 @@
+🤖 Hangman Game in Python 🤖
+A simple and fun implementation of the Hangman word guessing game in Python. The program randomly selects a word from a predefined list and the player has to guess it letter by letter.
+
+Features:
+📝 Uses a predefined word list (word_list) for the game.
+🎨 Visual representation of a hangman with stages from hangman_art.
+🎯 Limited attempts (lives) to guess the word.
+⚡ Keep track of already guessed letters.
+
+How to Play:
+1.The game selects a random word from a list of possible words.
+2.The player guesses letters, one at a time.
+3.If the guessed letter is correct, it’s revealed in the word.
+4.If the guessed letter is incorrect, the player loses a life (out of 6 lives).
+5.The game ends when the player either guesses the word or runs out of lives.
+
+Game Flow:
+1.The user is prompted to guess a letter, and feedback is given on whether the guess was correct.
+2.The game continues until the user either wins by guessing the full word or loses by running out of lives.
