@@ -1,0 +1,14 @@
+🔐 Caesar Cipher Encryption/Decryption 🔐
+
+A simple Python program to encode or decode messages using the Caesar Cipher technique, a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+
+Features:
+🔑 Encrypt or Decrypt messages
+🔄 Customizable shift value for encoding/decoding
+🌟 Simple user interface for input
+
+Explanation of Mechanism:
+1.The program uses the Caesar Cipher technique to shift each letter by the given number.
+2.The alphabet is defined, and the shift is applied to each letter.
+3.It handles both encryption and decryption based on the user's choice.
+4.The program wraps around the alphabet (from z back to a and vice versa) for shift values that go beyond z or below a.
