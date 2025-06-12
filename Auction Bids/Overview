@@ -1,0 +1,10 @@
+*********Auction Bidding System in Python***********
+
+This is a simple Python program that simulates an auction bidding process. Users can input their bids, and the program will determine and display the highest bidder at the end. It uses basic concepts like loops, conditionals, and dictionaries.
+
+Features:
+
+1.Users can place bids by entering their name and bid amount.
+2.The program keeps track of all the bids.
+3.After all bids are placed, the highest bidder is announced.
+4.The interface uses ASCII art for a clean, fun display.
