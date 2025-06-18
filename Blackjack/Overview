@@ -1,0 +1,10 @@
+🃏 Blackjack Game (Python Console Version)
+This is a simple console-based Blackjack game implemented in Python. It mimics the classic card game where you play against the computer (dealer).
+
+Features:
+1.Draws cards from a deck (with simplified values).
+2.Automatically handles Ace as 11 or 1 depending on your score.
+3.Detects Blackjack and busts.
+4.Lets the user choose to draw another card or stand.
+5.Dealer draws until reaching at least 17.
+6.Compares final scores and announces the result.
