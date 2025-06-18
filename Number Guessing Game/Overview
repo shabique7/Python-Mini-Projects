@@ -1,0 +1,11 @@
+🎯 Number Guessing Game (Python Console)
+A fun console-based number guessing game where the player tries to guess a randomly chosen number between 1 and 100.
+
+Features:
+1.Two difficulty modes:
+  a)Easy (10 attempts)
+  b)Hard (5 attempts)
+2.Hints after each guess:
+  "Too high" or "Too low"
+3.Ends when the player guesses correctly or runs out of attempts
+4.Uses the art library for a welcoming ASCII logo
